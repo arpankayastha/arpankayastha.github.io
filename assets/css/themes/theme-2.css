@@ -1,0 +1,40 @@
+.button-alone {
+    background: #0edadf;
+    border: 1px solid #0edadf;
+    color: #fff;
+}
+
+.button-alone:hover {
+    background: #fff;
+    color: #0edadf;
+}
+
+.gradient:before {
+    background: #fc00ff;
+    background: -moz-linear-gradient(-45deg, #00dbde 0%, #fc00ff 100%); 
+    background: -webkit-linear-gradient(-45deg, #00dbde 0%, #fc00ff 100%); 
+    background: linear-gradient(135deg, #00dbde 0%, #fc00ff 100%); 
+}
+
+.skill-bar-inner {
+    background: #0edadf;
+}
+
+.list_resume:before {
+    border: 2px solid #0edadf;
+}
+
+.list_resume {
+    border-left: 2px solid #0edadf;
+}
+
+.years {
+    color: #0edadf;
+}
+
+.item-hover {
+    background: #fc00ff;
+    background: -moz-linear-gradient(-45deg, #00dbde 0%, #fc00ff 100%); 
+    background: -webkit-linear-gradient(-45deg, #00dbde 0%, #fc00ff 100%); 
+    background: linear-gradient(135deg, #00dbde 0%, #fc00ff 100%); 
+}
